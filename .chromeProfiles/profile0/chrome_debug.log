@@ -1,0 +1,33 @@
+[11956:11812:0504/082221.792:WARNING:chrome_main_delegate.cc(594)] This is Chrome version 112.0.5615.138 (not a warning)
+[11956:11812:0504/082221.800:WARNING:chrome_command_line_pref_store.cc(120)] Additional command-line proxy switches specified when --no-proxy-server was also specified.
+[11956:11812:0504/082221.805:WARNING:chrome_command_line_pref_store.cc(120)] Additional command-line proxy switches specified when --no-proxy-server was also specified.
+[11956:11812:0504/082221.851:INFO:chrome_browser_cloud_management_controller.cc(167)] Starting CBCM Controller Initialization
+[11956:11812:0504/082221.851:INFO:chrome_browser_cloud_management_controller.cc(195)] No machine level policy manager exists.
+[11956:11812:0504/082221.851:WARNING:chrome_command_line_pref_store.cc(120)] Additional command-line proxy switches specified when --no-proxy-server was also specified.
+[11956:11812:0504/082223.934:INFO:CONSOLE(6733)] "crbug/1173575, non-JS module files deprecated.", source: chrome-error://chromewebdata/ (6733)
+[11956:11812:0504/082223.975:INFO:CONSOLE(1)] "INIT    === Start of processExistingTabs.  refresh: false", source: chrome-extension://cencfoaalgelhnjicmbcdemkhampdogo/BS.js (1)
+[11956:11812:0504/082223.975:INFO:CONSOLE(1)] "INIT    === Start of processExistingTabs.  refresh: true", source: chrome-extension://cencfoaalgelhnjicmbcdemkhampdogo/BS.js (1)
+[11956:11812:0504/082223.975:INFO:CONSOLE(1)] "INIT    === chrome.tabs.query result.  tabs.length: 1", source: chrome-extension://cencfoaalgelhnjicmbcdemkhampdogo/BS.js (1)
+[11956:11812:0504/082223.975:INFO:CONSOLE(1)] "INIT    === Got pre-exiting tab.  i:  0, tabId: 186650732, url: file:///C:/Users/ADITYA~1.SHA/AppData/Local/Temp/ProvarChromeIde4567161518186472720/provarPort=59061&idePort=59082&sessionId=1&subSessionId=2&connectionName=NewProject:NewProject&devMode=false&showEnhancedXpathEditor=true&dmwAttempt=0&dmwCloseTimeInSec=2000&useTargetXpaths=false.html, existingTab: undefined", source: chrome-extension://cencfoaalgelhnjicmbcdemkhampdogo/BS.js (1)
+[11956:11812:0504/082223.975:INFO:CONSOLE(1)] "INIT    === Created connectionDetails for new tab", source: chrome-extension://cencfoaalgelhnjicmbcdemkhampdogo/BS.js (1)
+[11956:11812:0504/082223.975:INFO:CONSOLE(1)] "INIT    === Set focused tab.  focusedTabId: 186650732", source: chrome-extension://cencfoaalgelhnjicmbcdemkhampdogo/BS.js (1)
+[11956:11812:0504/082223.975:INFO:CONSOLE(1)] "INIT    === chrome.tabs.query result.  tabs.length: 1", source: chrome-extension://cencfoaalgelhnjicmbcdemkhampdogo/BS.js (1)
+[11956:11812:0504/082223.975:INFO:CONSOLE(1)] "INIT    === Got pre-exiting tab.  i:  0, tabId: 186650732, url: file:///C:/Users/ADITYA~1.SHA/AppData/Local/Temp/ProvarChromeIde4567161518186472720/provarPort=59061&idePort=59082&sessionId=1&subSessionId=2&connectionName=NewProject:NewProject&devMode=false&showEnhancedXpathEditor=true&dmwAttempt=0&dmwCloseTimeInSec=2000&useTargetXpaths=false.html, existingTab: [object Object]", source: chrome-extension://cencfoaalgelhnjicmbcdemkhampdogo/BS.js (1)
+[11956:11812:0504/082224.100:INFO:CONSOLE(1)] "Sending request to Provar to get strategies", source: chrome-extension://cencfoaalgelhnjicmbcdemkhampdogo/BS.js (1)
+[11956:11812:0504/082224.148:INFO:CONSOLE(1)] "dispatchMessage - resolving response:  [object Object]", source: chrome-extension://cencfoaalgelhnjicmbcdemkhampdogo/BS.js (1)
+[11956:11812:0504/082225.963:ERROR:device_event_log_impl.cc(222)] [08:22:25.972] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+[11956:11812:0504/082225.963:ERROR:device_event_log_impl.cc(222)] [08:22:25.973] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+[11956:11812:0504/082228.988:INFO:CONSOLE(1)] "INIT    === Start of processExistingTabs.  refresh: true", source: chrome-extension://cencfoaalgelhnjicmbcdemkhampdogo/BS.js (1)
+[11956:11812:0504/082228.988:INFO:CONSOLE(1)] "INIT    === chrome.tabs.query result.  tabs.length: 1", source: chrome-extension://cencfoaalgelhnjicmbcdemkhampdogo/BS.js (1)
+[11956:11812:0504/082228.988:INFO:CONSOLE(1)] "INIT    === Got pre-exiting tab.  i:  0, tabId: 186650732, url: about:blank, existingTab: [object Object]", source: chrome-extension://cencfoaalgelhnjicmbcdemkhampdogo/BS.js (1)
+[11956:11812:0504/082235.351:INFO:CONSOLE(1)] "ComponentProfiler: Component-level profiling has not been enabled because "componentProfiler.instrumentation.ltng" gate is not open.", source: https://provar-bf-dev-ed.develop.lightning.force.com/components/instrumentation/componentProfiler.js (1)
+[11956:11812:0504/082235.950:INFO:CONSOLE(4)] "empApi setting initialized true for : undefined", source: https://provar-bf-dev-ed.develop.lightning.force.com/components/force/empApi.js (4)
+[11956:11812:0504/082237.136:WARNING:controller_impl.cc(1191)] Background download complete, client: 6, completion type: 0, file size:265059
+[11956:11812:0504/082237.503:WARNING:controller_impl.cc(1191)] Background download complete, client: 6, completion type: 0, file size:5086
+[11956:11812:0504/082237.818:INFO:CONSOLE(40)] "[object Object]", source: https://provar-bf-dev-ed.develop.lightning.force.com/libraries/instrumentation/beaconLib.BeaconLibrary.js (40)
+[11956:11812:0504/082237.835:INFO:CONSOLE(13)] "An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can remove its sandboxing.", source: https://static.lightning.force.com/ap16/auraFW/javascript/2kszAdlijI-L2tQGa5JU9w/aura_prod.js (13)
+[11956:11812:0504/082238.017:WARNING:controller_impl.cc(1191)] Background download complete, client: 6, completion type: 0, file size:9419
+[11956:11812:0504/082238.416:WARNING:controller_impl.cc(1191)] Background download complete, client: 6, completion type: 0, file size:45101
+[11956:11812:0504/082239.517:WARNING:controller_impl.cc(1191)] Background download complete, client: 6, completion type: 0, file size:34442193
+[11956:11812:0504/082744.515:INFO:CONSOLE(1)] "Tab Closed.  tabId: 186650732", source: chrome-extension://cencfoaalgelhnjicmbcdemkhampdogo/BS.js (1)
+[11956:11812:0504/082744.672:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
